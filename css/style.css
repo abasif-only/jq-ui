@@ -1,0 +1,17 @@
+.drag{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+}
+.content{
+	width: 100px;
+	height: 100px;
+}
+.target{
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+}
+.p{
+	width: 400px;
+}
